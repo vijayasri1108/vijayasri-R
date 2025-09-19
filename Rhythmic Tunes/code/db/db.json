@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "vaseegara",
+      "singer": "bombay Jayashri Harris Jayaraj Thamarai",
+      "genre": "Romantic",
+      "imgUrl": "https://i.ytimg.com/vi/SuqFgq2Kzwg/hqdefault.jpg",
+      "songUr1": "Songs/vaseegara.mp3"
+    },
+    {
+      "id": 2,
+      "title": "minavale",
+      "singer": "sid sriram",
+      "genre": "Romantic",
+      "imgUrl": "https://static.toiimg.com/photo/99949694.cms",
+      "songUrl": "Songs/minalvale.mp3"
+    },
+    {
+      "id": 3,
+      "title": "irumbil oru idhayam ",
+      "imgUrl": "https://tse3.mm.bing.net/th/id/OIP.9JdUeVBRlI900A-WPsba6gHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "genre": "vibe",
+      "songUrl": "Songs/irumbile oru idhaiyam",
+      "singer": "ar raguman"
+    },
+    {
+      "id": 4,
+      "title": "kuthadharam",
+      "imgUrl": "https://www.dreampirates.in/src/images/?u=https://i.ytimg.com/vi/W6-O00alJUo/maxresdefault.jpg&w=1280&h=720",
+      "genre": "vibe",
+      "songUrl": "Songs/kuthadharam",
+      "singer": "vedan"
+    },
+    {
+      "id": 5,
+      "title": "pottala muttai",
+      "imgUrl": "https://a10.gaanacdn.com/gn_img/albums/ZaP374RWDy/P37lmR29WD/size_m.jpg",
+      "genre": "romantic",
+      "songUrl": "Songs/pottala muttai",
+      "singer": "shansosh narayanan"
+    },
+    {
+      "id": 6,
+      "title": "etho ondru ennai thakka",
+      "imgUrl": "https://masstamilan.sbs/upload_file/19/99/230x230/thumb_675bcc1f0eaf8.webp",
+      "genre": "romantic",
+      "songUrl": "Songs/etho ondru ennai thakka",
+      "singer": "yuvan shankar raja"
+    }
+    
+  ],
+  "favorities": [
+    {
+      "id": 1,
+      "title": "irumbil oru idhayam ",
+      "imgUrl": "https://tse3.mm.bing.net/th/id/OIP.9JdUeVBRlI900A-WPsba6gHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "genre": "vibe",
+      "songUrl": "Songs/irumbile oru idhaiyam",
+      "singer": "ar raguman"
+    },
+    {
+      "itemId": 2,
+      "title": "kuthadharam",
+      "imgUrl": "https://www.dreampirates.in/src/images/?u=https://i.ytimg.com/vi/W6-O00alJUo/maxresdefault.jpg&w=1280&h=720",
+      "genre": "vibe",
+      "songUrl": "/Songs/kuthadharam",
+      "singer": "vedan",
+      "id": 6
+    },
+    {
+      "id": 3,
+      "title": "pottala muttai",
+      "imgUrl": "https://a10.gaanacdn.com/gn_img/albums/ZaP374RWDy/P37lmR29WD/size_m.jpg",
+      "genre": "romantic",
+      "songUrl": "/Songs/pottala muttai",
+      "singer": "shansosh narayanan"
+    },
+    {
+      "id": 4,
+      "title": "etho ondru ennai thakka",
+      "imgUrl": "https://masstamilan.sbs/upload_file/19/99/230x230/thumb_675bcc1f0eaf8.webp",
+      "genre": "romantic",
+      "songUrl": "/Songs/etho ondru ennai thakka",
+      "singer": "yuvan shankar raja"
+    }
+  ],
+  "playlist": [
+    {
+      "id": 1,
+      "title": "monica",
+      "imgUrl": "https://tse4.mm.bing.net/th/id/OIP.Wvi9LhnClDD5W_nUVEKHIQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "genre": "vibe",
+      "songUrl": "/Songs/monica",
+      "singer": "anirudh"
+    },
+    {
+      "id": 2,
+      "title": "golden sparrow",
+      "imgUrl": "https://masstamilan.sbs/upload_file/19/42/230x230/thumb_67284f25152e0.webp",
+      "genre": "romatic",
+      "songUrl": "/Songs/golden sparrow",
+      "singer": "danush"
+    },
+    {
+      "id": 3,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.",
+      "singer": "Arijit Singh"
+    }
+  ]
+}
